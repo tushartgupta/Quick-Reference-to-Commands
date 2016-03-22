@@ -3,12 +3,20 @@
  
  2. git clone https://github.com/tushartgupta/html.git
  
+ 
+Check status:
 git status
+Checkout gh-pages:
 git checkout gh-pages
+
+To add the changes:
 git add .
+
+Then commit:
 git commit -m "My First Page."
+
+Then push to github:
 git push
-git add .\site\index.html
 
 ============
 To get the list of all proxy defined:
