@@ -1,7 +1,8 @@
- Cloning a GitHub repository:
- 1. git config --global http.proxy <proxy url>
+
+Cloning a GitHub repository:
+1. git config --global http.proxy <proxy url>
  
- 2. git clone https://github.com/tushartgupta/html.git
+2. git clone https://github.com/tushartgupta/html.git
  
  
 Check status:
